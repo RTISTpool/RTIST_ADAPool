@@ -1,0 +1,7 @@
+{
+"name": "RTIST Pool",
+"description": "5% margin funds the support of artists being onboarded to Cardano. Treasury of art collection from new Cardano artists.",
+"ticker": "RTIST",
+"homepage": "",
+"extended": "https://raw.githubusercontent.com/RTISTpool/RTIST_ADAPool/main/poolExtendedMetadata.json"
+}
